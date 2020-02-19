@@ -1,0 +1,11 @@
+<ul class="socials">
+	{% for item in site.data.settings.social_settings.social_items %}
+	<li class="socials__item">
+		<a href="{{ item.url }}" target="_blank" class="socials__item__link" title="{{ item.title }}">
+			<svg style="display:inline-block; font-size:inherit; height:1em; overflow:visible; vertical-align:-.125em; width:.875em;" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+				<path fill="currentColor" d="{{ item.vector }}"></path>
+			</svg>
+		</a>
+	</li>
+	{% endfor %}
+</ul>

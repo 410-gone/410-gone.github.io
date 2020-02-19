@@ -1,0 +1,15 @@
+.banner {
+    background: $accent-color;
+    color: $text-dark-color;
+    text-align: center;
+    padding: 1em;
+
+    a {
+        text-decoration: underline;
+        color: inherit;
+
+        &:hover {
+            color: inherit;
+        }
+    }
+}

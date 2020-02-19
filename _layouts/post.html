@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+<section class="intro">
+
+	<div class="wrap">
+
+		{% if page.tags %}
+		<p class="blog-post__tags">
+			{% for tag in page.tags %}
+				{% capture tag_name %}{{ tag }}{% endcapture %}
+				<a href="/topics/{{ tag_name }}" class="blog-post__tag">{{ tag_name }}</a>
+			{% endfor %}
+		</p>
+		{% endif %}
+
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.date | date_to_long_string }}</p>
+
+	</div>
+
+</section>
+
+<section class="single">
+
+	<div class="wrap">
+
+		{{ content }}
+
+	</div>
+
+</section>
+
+<section class="pagination">
+
+	{% if page.previous.url %}
+	<div class="pagination__prev">
+		<a href="{{ page.previous.url | prepend: site.baseurl }}" class="button button--large">
+			<svg style="display:inline-block; font-size:inherit; height:1em; overflow:visible; vertical-align:-.125em; width:.875em;" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+        <path fill="currentColor" d="{{ site.data.settings.site_icons.left_arrow }}"></path>
+			</svg>
+			<span>{{ page.previous.title }}</span>
+		</a>
+	</div>
+	{% endif %}
+	{% if page.next.url %}
+	<div class="pagination__next">
+		<a href="{{ page.next.url | prepend: site.baseurl }}" class="button button--large">
+			<span>{{ page.next.title }}</span>
+			<svg style="display:inline-block; font-size:inherit; height:1em; overflow:visible; vertical-align:-.125em; width:.875em;" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+				<path fill="currentColor" d="{{ site.data.settings.site_icons.right_arrow }}"></path>
+			</svg>
+		</a>
+	</div>
+	{% endif %}
+
+</section>
