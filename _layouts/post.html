@@ -16,7 +16,7 @@ layout: default
 		{% endif %}
 
 		<h1>{{ page.title }}</h1>
-		<p>{{ page.date | date_to_long_string }}</p>
+		<p>{{ page.date | date_to_long_string }} {% assign words = content | number_of_words %} &mdash; {{ words | divided_by:200 }} min read</p>
 
 	</div>
 
