@@ -1,6 +1,6 @@
 ---
 title: springer approach trail to stover creek shelter
-featured_image: '/images/posts/2020-03-17-finally-on-the-map.jpeg'
+featured_image: '/images/posts/2020-03-17-finally-on-the-map.png'
 tags: at2020 through_hike
 excerpt: just getting here has been such a trip.
 ---
@@ -25,7 +25,7 @@ we stayed with family and friends on the way and talked mostly about the newest 
 stayed at a hotel in gainesville, ga. mom had made a reservation at a fancy restaurant. there were only 3 other tables of people.
 
 <figure>
-  <img src="/images/posts/2020-03-17-finally-on-the-map.jpeg" alt="finally on the map" />
+  <img src="/images/posts/2020-03-17-finally-on-the-map.png" alt="finally on the map" />
   <figcaption>finally on the map</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ had planned to eat breakfast and completely forgot. arrived at amicalola state p
 hiked with the entire family up the east trail. it was very misty and rained on us just a few times. i had planned on the official trail up the center of the valley, but immediately out of the gate headed the wrong way. it turned out to be for the best as when we got to the top of the falls, i ran to the bottom to take a photo and discovered that the stairs along the side were the perforated metal type. the dogs would have hated them, and we would have only discovered them after hiking almost a mile.
 
 <div class="gallery" data-columns="2">
-	<imge src="/images/posts/2020-03-17-amicalola-falls-1.jpeg">
+	<img src="/images/posts/2020-03-17-amicalola-falls-1.jpeg">
 	<img src="/images/posts/2020-03-17-amicalola-falls-2.jpeg">
 	<img src="/images/posts/2020-03-17-amicalola-falls-3.jpeg">
 	<img src="/images/posts/2020-03-17-amicalola-falls-4.jpeg">
@@ -52,7 +52,7 @@ hiked with the entire family up the east trail. it was very misty and rained on 
 as we hiked the approach trail the weather improved, with times of full sun. it's generally not this warm this early in the season, and with no leaves on the trees yet, i wished i had some sunblock.
 
 <div class="gallery" data-columns="2">
-	<imge src="/images/posts/2020-03-17-springer-mountain-1.jpeg">
+	<img src="/images/posts/2020-03-17-springer-mountain-1.jpeg">
 	<img src="/images/posts/2020-03-17-springer-mountain-2.jpeg">
 </div>
 
@@ -60,17 +60,12 @@ it felt really good to be on the trail. i've been dreaming of this day for decad
 
 despite only seeing a few folks on the way up, the summit was pretty full. i signed the log book for posterity and took a few snaps of the plaque and the first white blaze!
 
-<div class="gallery" data-columns="2">
-	<imge src="/images/posts/2020-03-17-springer-mountain-1.jpeg">
-	<img src="/images/posts/2020-03-17-springer-mountain-2.jpeg">
-</div>
-
-we had signal at the summit and quickly discovered that there were some issues withe the parental driving plan. they got wind that the road to the parking lot required a four wheel drive vehicle and was essentially off roading. we left them to it and headed to the parking lot to wait.
-
 <figure>
   <img src="/images/posts/2020-03-17-the-very-first-white-blaze.jpeg" alt="the very first white blaze" />
   <figcaption>the very first white blaze</figcaption>
 </figure>
+
+we had signal at the summit and quickly discovered that there were some issues withe the parental driving plan. they got wind that the road to the parking lot required a four wheel drive vehicle and was essentially off roading. we left them to it and headed to the parking lot to wait.
 
 it took almost 2 hours for them to get there. the road was apparently fine, but the GPS kept cutting out and they ended up miles away from the intended route.
 
