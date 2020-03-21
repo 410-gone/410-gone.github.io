@@ -18,7 +18,7 @@ during breakfast one of the shelter dwellers went to put in his boots and discov
 
 packed up and headed out just as the last clouds moved out from above. a beautiful morning to hike. the trail even started drying out a bit. it's been quite muddy due to the recent rains.
 
-the plan for the day was to call "large marge" and see how she was doing on her drive home. this requires some logistics as i had to warm my phone, charge it, and then keep it warm so i didn't destroy what little battery i have on the call. once i hit the ridge of ramrock mountain i had pretty good signal and was able to check in. all well. parental departure went without a hitch. she stayed with friends the night before and was skipping the planned family stop and was pushing for home. apparently the dogs are done with pickup truck living.
+the plan for the day was to call maggie and see how she was doing on her drive home. this requires some logistics as i had to warm my phone, charge it, and then keep it warm so i didn't destroy what little battery i have on the call. once i hit the ridge of ramrock mountain i had pretty good signal and was able to check in. all well. parental departure went without a hitch. she stayed with friends the night before and was skipping the planned family stop and was pushing for home. apparently the dogs are done with pickup truck living.
 
 a quick 4.8 miles and i was at woody gap. trail magic! in the packed parking lot,two young girls were sitting in the back of a mini van. in addition to various sweets and oranges, they had set up a hand washing station and had tons of wipes. i did both before selecting some of their wares. it sounds like one of their family is hiking the trail this year and was at woody gap, though i didn't know who.
 
