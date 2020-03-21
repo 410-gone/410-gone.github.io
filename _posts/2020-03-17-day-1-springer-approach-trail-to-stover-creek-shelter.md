@@ -18,7 +18,7 @@ total miles: 10.9
   <figcaption>view from the bedroom</figcaption>
 </figure>
 
-just getting here has been such a trip. when "large marge" and i left home the COVID19 pandemic was at wash your hands, maybe consider not gathering in large groups. as we travelled the three days to georgia the situation continued to deteriorate.
+just getting here has been such a trip. when maggie and i left home the COVID19 pandemic was at wash your hands, maybe consider not gathering in large groups. as we travelled the three days to georgia the situation continued to deteriorate.
 
 we stayed with family and friends on the way and talked mostly about the newest pandemic news.
 
@@ -47,7 +47,7 @@ hiked with the entire family up the east trail. it was very misty and rained on 
 	<img src="/images/posts/2020-03-17-amicalola-falls-4.jpeg">
 </div>
 
-"large marge" the dogs and i left the parents at the top of the falls and headed up the approach trail. the plan was that parents would finish walking around the falls and then drive the two cars around to a parking lot 1 mile after the summit of springer mountain.
+maggie, the dogs and i left the parents at the top of the falls and headed up the approach trail. the plan was that parents would finish walking around the falls and then drive the two cars around to a parking lot 1 mile after the summit of springer mountain.
 
 as we hiked the approach trail the weather improved, with times of full sun. it's generally not this warm this early in the season, and with no leaves on the trees yet, i wished i had some sunblock.
 
