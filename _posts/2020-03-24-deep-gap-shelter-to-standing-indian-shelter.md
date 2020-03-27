@@ -13,7 +13,7 @@ it rained much of the night, but shortly before daybreak the rain subsided. i to
 <figure>
   <img src="/images/posts/2020-03-24-deep-gap-shelter.jpeg" alt="deep gap shelter" />
   <figcaption>deep gap shelter</figcaption>
-</figure
+</figure>
 
 got a later start than i wanted, around 08:30. "wet foot", "ain't got one", and "so yeah", a family from kentucky through hiking left while i was eating. i think "so yeah" is only 10, but she's the talker in the family. i passed them pretty early on.
 
