@@ -1,6 +1,5 @@
 ---
 title: unicoi gap to deep gap shelter
-subtitle: soggy and cold
 featured_image: '/images/posts/2020-03-23-soggy-soggy-trail.jpeg'
 tags: at2020 through_hike
 excerpt: slept very well in the budget inn. the beds were flat and dry, what more do i really need?  clothes, socks and shoes: dry. weather check via window: very rainy.
