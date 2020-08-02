@@ -31,7 +31,7 @@ i passed "chef ramsey" whom i haven't seen for a few days. we chatted for just a
 
 <figure>
   <img src="/images/posts/2020-03-24-north-carolinny.jpeg" alt="north carolinny" />
-  <figcaption>north carolinny: sorry aboutthe picture, it was raining pretty hard and i was in a hurry and hunched over in an attempt to keep the camera dry.</figcaption>
+  <figcaption>north carolinny: sorry about the picture, it was raining pretty hard and i was in a hurry and hunched over in an attempt to keep the camera dry.</figcaption>
 </figure>
 
 there should have been a sign that said "welcome to north carolina, here's your climb." (this would be funnier if bill engvall was from NC and not TX.) almost immediately there was a very steep and lengthy climb followed almost immediately by another.
