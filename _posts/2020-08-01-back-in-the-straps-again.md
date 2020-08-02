@@ -9,7 +9,7 @@ excerpt: it's been a strange summer.
 
 it's been a strange summer. most of the day feels pretty normal. mowing, planting, bucking, splitting, maybe a dip in the river. but then it gets odd when going to the farm for our CSA pick up, or if we want to invite friends over. i'm not sure how folks in the city are doing it. i don't think i could be cooped up like that for this long. even as it is with all my relative freedom, i'm still feeling a bit pent up. it sounnds so trivial, but i just want to go to a bar and have a beer with friends.
 
-![moar spring](/2020-08-01-2.jpeg)
+![moar spring](/images/posts/2020-08-01-2.jpeg)
 
 being retired during COVID has emphasized why i wanted to retire in the first place. i'm not worried about a job letting me go, unemployment, or having to work in unsafe conditions. i'm not worried about paying my rent or a mortgage. the waves breaking on the economy eroding what little if any protections others have reach me as ripples in a pond.
 
