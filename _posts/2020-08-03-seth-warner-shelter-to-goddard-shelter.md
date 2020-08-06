@@ -83,7 +83,7 @@ some additional photos from today:
 <div class="gallery" data-columns="2">
 	<img src="/images/posts/2020-08-03-pink-flowers.jpeg">
 	<img src="/images/posts/2020-08-03-red-mushrooms.jpeg">
-       <img src="/images/posts/2020-08-03-orange-mushroom.jpeg>
-       <img src="/images/posts/2020-08-03-trail.jpeg>
-       <img src="/images/posts/2020-08-03-painted-rock.jpeg>
+       <img src="/images/posts/2020-08-03-orange-mushroom.jpeg">
+       <img src="/images/posts/2020-08-03-trail.jpeg">
+       <img src="/images/posts/2020-08-03-painted-rock.jpeg">
 </div>
