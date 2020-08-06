@@ -6,6 +6,7 @@ excerpt: magz and i left the house about ten and headed to plainfield to drop th
 ---
 
 miles: 2.9, plus 4.5 at approach trail.
+
 total miles: 7.4
 
 magz and i left the house about ten and headed to plainfield to drop the pups off at their aunt and uncle's for the night. we're podded up with them, so hugs all around.
