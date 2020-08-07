@@ -18,7 +18,7 @@ stratton pond was just below the shelter.
 <div class="gallery" data-columns="3">
 	<img src="/images/posts/2020-08-05-stratton-pond-1.jpeg">
 	<img src="/images/posts/2020-08-05-stratton-pond-2.jpeg">
-	<img src="/images/posts/2020-08-05-stratton-pond-3jpeg">
+	<img src="/images/posts/2020-08-05-stratton-pond-3.jpeg">
 </div>
 
 the trail followed a dirt road for maybe a mile before a double blaze indicating a turn. i followed where it looked like the path was, but it dead ended at prospect rock where i got a stunning view of bennington.
