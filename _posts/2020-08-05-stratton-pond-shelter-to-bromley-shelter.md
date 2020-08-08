@@ -61,7 +61,7 @@ some other photos from today:
 
 <div class="gallery" data-columns="3">
 	<img src="/images/posts/2020-08-05-green-clearing.jpeg">
-	<img src="/images/posts/2020-08-03-river-1.jpeg">
-	<img src="/images/posts/2020-08-03-river-2.jpeg">
+	<img src="/images/posts/2020-08-05-river-1.jpeg">
+	<img src="/images/posts/2020-08-05-river-2.jpeg">
 	<img src="/images/posts/2020-08-05-mushrooms.jpeg">
 </div>
