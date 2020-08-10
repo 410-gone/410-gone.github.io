@@ -1,5 +1,5 @@
 ---
-title: governor clement shelter to rolston rest sheter
+title: governor clement shelter to rolston rest shelter
 featured_image: '/images/posts/2020-08-08-killington-6.jpeg'
 tags: lt2020 through_hike
 excerpt: woke up and thought i heard the bird alarm. there were also the sounds of potential rain, so i thought i'd get going.
