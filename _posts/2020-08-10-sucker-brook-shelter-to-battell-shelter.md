@@ -36,7 +36,7 @@ i had heard a lot of good things about skylight lodge, but when i got there, i d
 
 i hiked on, this section of trail was particularly challenging due to numerous blow downs that had to be navigated.
 
-![blowdown](/images/posts/2020-08-10- blowdown.jpeg)
+![blowdown](/images/posts/2020-08-10-blowdown.jpeg)
 
 i arrived at emily proctor shelter right around noon and stopped for lunch. miraculously i had some signal, so i did my blog posting. i sunned my socks and shoes and they were close to dry when i put them on!
 
@@ -75,7 +75,7 @@ this site is light on tent space. my tent is crammed between trees, not pretty, 
 
 some additional shots from today.
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="/images/posts/2020-08-10-joe-pie-weed.jpeg">
-	<img src="/images/posts/2020-08-10-indian-pipe.jpeg>
+	<img src="/images/posts/2020-08-10-indian-pipe.jpeg">
 </div>
