@@ -71,7 +71,7 @@ we loitered on the summit for a bit longer before heading down. nails and mate h
 
 <div class="gallery" data-columns="3">
 	<img src="/images/posts/2020-08-12-camels-hump-descent-1.jpeg">
-	<img src="/images/posts/2020-08-12-camels-hump-descent-1.jpeg">
+	<img src="/images/posts/2020-08-12-camels-hump-descent-2.jpeg">
 </div>
 
 i got ahead of nails and mate and made it to bamforth shelter pretty early and set up camp. i strung a line and hung everything out to dry. later lightweight and riley showed up to the shelter. they had a note from nails for me with all her deets and an offer to call if i needed anything on my SOBO. so awesome. i'm sure i'll be running into them again.
