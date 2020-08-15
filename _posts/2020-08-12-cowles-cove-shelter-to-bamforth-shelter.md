@@ -2,7 +2,7 @@
 title: cowle's cove shelter to bamforth shelter
 featured_image: '/images/posts/2020-08-12-camels-hump-summit-410-gone.jpeg'
 tags: lt2020 through_hike
-excerpt:
+excerpt: despite the weather report, it rained pretty hard last night. lots of lightning as well. when i'm warm and dry, i love that sort of thing, so i slept well.
 ---
 
 miles: 10.1
