@@ -1,6 +1,6 @@
 ---
 title: cowle's cove shelter to bamforth shelter
-featured_image: '/images/posts/2020-08-11-'
+featured_image: '/images/posts/2020-08-12-camels-hump-summit-410-gone.jpeg'
 tags: lt2020 through_hike
 excerpt:
 ---
