@@ -33,7 +33,7 @@ then continued up mt. belvidere. i took the .2 side trail to the top to see the 
 
 i passed a beaver pond and then lockwood pond (also a beaver pond) on the way to tillitson camp.
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="/images/posts/2020-08-17-beaver-pond-1.jpeg">
 	<img src="/images/posts/2020-08-17-lockwood-pond.jpeg">
 </div>
