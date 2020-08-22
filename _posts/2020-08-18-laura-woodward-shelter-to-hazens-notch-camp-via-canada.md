@@ -1,6 +1,6 @@
 ---
 title: laura woodward shelter to hazen's notch camp via canada
-featured_image: '/images/posts/2020-08-17-'
+featured_image: '/images/posts/2020-08-18-canadian-border-2.jpeg'
 tags: lt2020 through_hike
 excerpt: so tired. i hiked from laura woodward 8.4 miles north to the u.s. canada border, then switched to SOBO, and hiked another 17.1 miles.
 ---
