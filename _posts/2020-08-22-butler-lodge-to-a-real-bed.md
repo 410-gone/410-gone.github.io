@@ -65,7 +65,7 @@ we watched "the bee movie" at the request of her daughter, and somehow i stayed 
 
 some additional photos from today:
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="3">
 	<img src="/images/posts/2020-08-22-trail.jpeg">
 	<img src="/images/posts/2020-08-22-ginseng.jpeg">
 	<img src="/images/posts/2020-08-22-view.jpeg">
