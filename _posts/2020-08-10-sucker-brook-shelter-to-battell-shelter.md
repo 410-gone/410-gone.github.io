@@ -59,7 +59,7 @@ the trail was quite challenging at times.
 
 <div class="gallery" data-columns="3">
 	<img src="/images/posts/2020-08-10-challenging-trail-1.jpeg">
-	<img src="/images/posts/2020-08-10-challenging-trail-2.jpeg>
+	<img src="/images/posts/2020-08-10-challenging-trail-2.jpeg">
 	<img src="/images/posts/2020-08-10-challenging-trail-3.jpeg">
 </div>
 
