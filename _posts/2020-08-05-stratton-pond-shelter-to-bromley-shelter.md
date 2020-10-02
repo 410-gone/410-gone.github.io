@@ -11,7 +11,7 @@ what a difference a day makes. it didn't really rain much last night. lots of wi
 
 broke camp with relative efficiency. the only person who left before me was "gumby", an older retired guy. my spirits lifted almost immediately. the trail was expectedly soggy. other than my shoes and socks i dried out within a few miles.
 
-the plan for the day was to get in and out of bennington for a resupply and then do a couple more miles to the shelter. an easy day.
+the plan for the day was to get in and out of manchester for a resupply and then do a couple more miles to the shelter. an easy day.
 
 stratton pond was just below the shelter.
 
@@ -21,7 +21,7 @@ stratton pond was just below the shelter.
 	<img src="/images/posts/2020-08-05-stratton-pond-3.jpeg">
 </div>
 
-the trail followed a dirt road for maybe a mile before a double blaze indicating a turn. i followed where it looked like the path was, but it dead ended at prospect rock where i got a stunning view of bennington.
+the trail followed a dirt road for maybe a mile before a double blaze indicating a turn. i followed where it looked like the path was, but it dead ended at prospect rock where i got a stunning view of manchester.
 
 ![prospect rock](/images/posts/2020-08-05-prospect-rock.jpeg)
 
@@ -41,7 +41,7 @@ our tundra friend advised us to hang out in the shade near the r.k. miles and se
 
 we walked to r.k. miles and stuck out our thumbs. again, within 5 minutes someone stopped. this time a couple in a ford escape from new jersey. everyone masked up and we hopped in for the ride. the driver told us our ride came with a cost, and that cost was "what have you learned on the trail?" at this moment the answer to that for me is to let go of control you only think you have. you don't have nearly as much as you imagine, and that's okay. "gumby's" answer was that the world will provide. you only hear about the bad, but most people are good, and that's even more so for the hiker community and the things they do for one another. i told our driver that they were now part of that community, and thanks. it turns out that he's never picked up hitchhikers before. 
 
-there was a note on guthook that bennington had recently had an outbreak. you could definitely tell. on the 2 miles from our drop off almost everyone on the trail was wearing a mask.
+there was a note on guthook that manchester had recently had an outbreak. you could definitely tell. on the 2 miles from our drop off almost everyone on the trail was wearing a mask.
 
 arrived shortly at bromely shelter, also timberframe, like the one last night, but not nearly as big. it turns out to have tent pads as well. i looked at them and it took some creativity, (and a piece of string left in the shelter) but i got my tent set up. definitely not something you want to be doing in a torrential downpour.
 
