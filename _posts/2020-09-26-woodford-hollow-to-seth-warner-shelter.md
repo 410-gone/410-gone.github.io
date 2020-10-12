@@ -43,7 +43,6 @@ we continued on, the trail roughly running beside stratford stream. we passed a 
 	<img src="/images/posts/2020-09-26-beaver-pond-1.jpeg">
 	<img src="/images/posts/2020-09-26-beaver-pond-2.jpeg">
 	<img src="/images/posts/2020-09-26-rags-beaver-pond.jpeg">
-
 	<img src="/images/posts/2020-09-26-beaver-pond-3.jpeg">
 	<img src="/images/posts/2020-09-26-beaver-pond-4.jpeg">
 </div>
