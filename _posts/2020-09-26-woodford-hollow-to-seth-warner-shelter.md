@@ -15,7 +15,7 @@ the climb out of woodford hollow was steep. hundreds of rocks set in the mountai
 
 above the steep section was flat open trail to the top. we passed a beautiful fern forest on the way up.
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="/images/posts/2020-09-26-rags-fern-forest-1.jpeg">
 	<img src="/images/posts/2020-09-26-fern-forest.jpeg">
 	<img src="/images/posts/2020-09-26-rags-fern-forest-2.jpeg">
