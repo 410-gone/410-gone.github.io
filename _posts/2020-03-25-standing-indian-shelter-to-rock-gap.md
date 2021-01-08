@@ -7,6 +7,7 @@ excerpt: i am so glad i stayed in the shelter. torrential downpours all night an
 ---
 
 miles: 19.9
+
 total: 105.8
 
 i am so glad i stayed in the shelter. torrential downpours all night and fog so thick that i had to pull out my tent and drape it over my sleeping bag.
