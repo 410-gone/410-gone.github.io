@@ -5,7 +5,7 @@ tags: at2022
 excerpt: a year ago yesterday, i was in georgia taking my first steps on the appalachian trail amidst the backdrop of the first days of the global pandemic. time is no longer linear.
 ---
 
-<div style="background-color: lightgrey;">want to chat? i've added a new way to connect with folks on the [contact](/contact) page. it works over a messenger app called 'session'. session is a free "end-to-end encrypted messenger that minimizes sensitive metadata". if you're familiar with signal, it's based on the same code, but you don't need to give folks your phone number. i haven't talked about it a lot (yet), but i'm a total infosec / privacy nerd.</div>
+<div style="background-color: lightgrey; padding: 1em;">**want to chat?** i've added a new way to connect with folks on the [contact](/contact) page. it works over a messenger app called 'session'. session is a free "end-to-end encrypted messenger that minimizes sensitive metadata". if you're familiar with signal, it's based on the same code, but you don't need to give folks your phone number. i haven't talked about it a lot (yet), but i'm a total infosec / privacy nerd.</div>
 
 foreword: *this blog post is as if a train that was transporting dumpsters that were all on fire got in a collision with another train carring other dumpsters with other fires. to make things worse, one wonders why trains carrying the exact same cargo are going in opposite directions.*
 
@@ -17,7 +17,8 @@ today however is cool, rainy, and foggy; exactly like my first day on trail, and
 
 i am planning on re-attempting next year, 2022. i've kept in touch with [ian](https://www.youtube.com/channel/UCfabt-ptlW-GAKU2ZXBWA1g) and just last night we were chatting about it. it seems he may also be on trail march 17th of 2022. that would be a trip. he seems to be a gem of a person. just watch his videos, you'll see. also, fun easter egg: if you watch his first AT hiking video, when he gets to the top of springer mountain you'll hear jingling. that's the bells on my dogs' collar who were along for the day! we officially met that night at the shelter.
 
-> "i'll do some gear posts in the future, as i was helped tremendously by other through hikers posts and videos on what they carried and what changes they made while on trail. &mdash; 410-gone, [2020-09-27](/post/seth-warner-shelter-to-mass-at-approach/)"
+> "i'll do some gear posts in the future, as i was helped tremendously by other through hikers posts and videos on what they carried and what changes they made while on trail."
+&mdash; 410-gone, [2020-09-27](/post/seth-warner-shelter-to-mass-at-approach/)
 
 so it turns out that blogging is challenging like so very many things in that to do it you have to actually do it. i used to enjoy writing, and looking back at some of the things i wrote in school and just after school i was a halfway decent writer. reading through the blog today however i feel like i've lost so much skill. i think i'd like to write more, i think i'll enjoy it again if i actually start doing it again. so this is a disclaimer of sorts. i'd like to write more. i recognize that at present i'm not the most compelling writer, and there are some things i'd like to say, which brings me to another point; i'd like to be a lot more honest in my writing. i don't know how to navigate the line between writing and not upsetting people. i want to occasionally write about controversial things like politics, religion, people's personalities, personal finance, financial independence / FIRE etc. but to be frank, i'm afraid. the world is so full of utter bullshit these days. people aren't allowed to make mistakes. people aren't allowed to learn from them. people aren't allowed to *evolve*.
 
