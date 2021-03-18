@@ -5,7 +5,7 @@ tags: at2022
 excerpt: a year ago yesterday, i was in georgia taking my first steps on the appalachian trail amidst the backdrop of the first days of the global pandemic. time is no longer linear.
 ---
 
-<div style="background-color: lightgrey; padding: 1em;">**want to chat?** i've added a new way to connect with folks on the [contact](/contact) page. it works over a messenger app called 'session'. session is a free "end-to-end encrypted messenger that minimizes sensitive metadata". if you're familiar with signal, it's based on the same code, but you don't need to give folks your phone number. i haven't talked about it a lot (yet), but i'm a total infosec / privacy nerd.</div>
+<div style="background-color: lightgrey; padding: 1em;">**want to chat?** i've added a new way to connect with folks on the <a href="/contact">contact page</a>. it works over a messenger app called 'session'. session is a free "end-to-end encrypted messenger that minimizes sensitive metadata". if you're familiar with signal, it's based on the same code, but you don't need to give folks your phone number. i haven't talked about it a lot (yet), but i'm a total infosec / privacy nerd.</div>
 
 foreword: *this blog post is as if a train that was transporting dumpsters that were all on fire got in a collision with another train carring other dumpsters with other fires. to make things worse, one wonders why trains carrying the exact same cargo are going in opposite directions.*
 
