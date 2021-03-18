@@ -15,7 +15,7 @@ we were on trail shortly after 10 and quickly made it to spruce peak shelter, wh
 
 ![spruce peak shelter](/images/posts/2020-09-23-spruce-peak-shelter.jpeg)
 
-we carried on and made it up to prospect rock in tome for lunch. a SOBO through hiker, "batgirl" was there with her partner, who had joined her for the morning. he had packed in a special lunch, and rags inadvertently named him "lunch camel", which batgirl took to immediately.
+we carried on and made it up to prospect rock in time for lunch. a SOBO through hiker, "batgirl" was there with her partner, who had joined her for the morning. he had packed in a special lunch, and rags inadvertently named him "lunch camel", which batgirl took to immediately.
 
 ![batgirl](/images/posts/2020-09-23-batgirl.jpeg)
 

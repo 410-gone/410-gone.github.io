@@ -29,7 +29,7 @@ i have a lot of time to think, and the idea of continuing in a disgusting sleepi
 
 i think it must have been either the cucumber or perhaps some apples i got from another hiker that was finishing up at middlebury gap.
 
-the next morning i wake up a little late, pack the worst into my spare gallon ziplock that is reserved for my camera and phone during the worst storms, eat breakfast and head out.
+the next morning i wake up a little late, pack the worst into my spare gallon ziplock that is reserved for my camera and phone during storms, eat breakfast and head out.
 
 at the top of the blue blazed trail i regain cell service and call magz for a bail out. it sucks. i then hike 5.4 of the hardest miles i've done to  brandon gap. they were hard emotionally, but physically as well. my exhaustion from yesterday continued. at some point along the way i have to emergency poop, making it less than 30' off the trail at a full run before i'm throwing my bag to the ground and frantically pawing at the button on my shorts.
 

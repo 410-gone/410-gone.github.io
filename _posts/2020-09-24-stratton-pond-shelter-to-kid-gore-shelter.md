@@ -13,7 +13,7 @@ it was our warmest night yet. we both blew up in our sleeping bags. we set an al
 
 if that wasn't great enough, we also heard a moose braying across the lake. rags, who should really be named mooseless, has yet to see one, so hearing one was pretty exciting.
 
-we ate cold breakfast, granola and cold coffee. itwas much more efficient and we were on trail before 07:30.
+we ate cold breakfast, granola and cold coffee. it was much more efficient and we were on trail before 07:30.
 
 ![rags trail 1](/images/posts/2020-09-24-rags-trail-1.jpeg)
 

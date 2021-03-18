@@ -25,7 +25,7 @@ we took the pine cobble trail briefly to snap a shot of the view before returnin
 
 ![view](/images/posts/2020-09-27-view.jpeg)
 
-we ran into marilyn just before we got to massachusetts ave. he was hobbling pretty badly, but going to make it. i neglected to update his story a few days ago. after leaving the PCT due to the fires, he headed to the LT to do a NOBO through hike. he was climbing killinton and while letting a woman pass, her partner said something, and she wheeled around knocking marilyn over with her pack. unfortunately his leg was caught by a tree and it injured his knee. she never even stopped walking. apparently her partner apologized, but after a few more miles it was apparent that his knee was done, so he turned around and just started going SOBO. keep in mind, killington peak is northbound mile 98.1!
+we ran into marilyn just before we got to massachusetts ave. he was hobbling pretty badly, but going to make it. i neglected to update his story a few days ago. after leaving the PCT due to the fires, he headed to the LT to do a NOBO through hike. he was climbing killington and while letting a woman pass, her partner said something, and she wheeled around knocking marilyn over with her pack. unfortunately his leg was caught by a tree and it injured his knee. she never even stopped walking. apparently her partner apologized, but after a few more miles it was apparent that his knee was done, so he turned around and just started going SOBO. keep in mind, killington peak is northbound mile 98.1!
 
 the three of us walked together to mass ave, across the bridge to rt 2 where we parted ways. we were all headed to stop and shop, but we had to go east to get the car, while marilyn turned west to walk there.
 
