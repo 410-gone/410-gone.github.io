@@ -1,6 +1,6 @@
 ---
 title: how to retire early
-featured_image: '/images/posts/2021-04-02-winter-night-1.jpeg'
+featured_image: '/images/posts/2021-04-02-winter-night-1.jpg'
 tags: 
 excerpt: one of the most frequently asked questions about the trail is "how did you get the time off to do it?".
 ---
@@ -66,7 +66,7 @@ so now the logical thing to do is freak out because holy shit, 33x my yearly exp
 
 money in your checking account is not what we're looking for here. money in a checking account is slowly losing value over time because the current inflation rate is larger than what most checking accounts are paying in interest. hold on, don't leave, i'll explain what that means. we all hear stories where grandpa recounts how he got paid a shiny nickel and then used that to buy his first bike, and we sort of think, what, you got paid a measly nickel? and what, you bought a friggin bike with it?!?!? that's inflation in a nutshell. if grandpa had foregone the bike, saved that nickel, and pulled it out today, you'd be unimpressed because today its just a nickel. it's the same for your checking account. if you have money sitting in there for 60 years it won't buy as much stuff as it can right now.
 
-> our favorite holding period is forever. &mash; warren buffett
+> our favorite holding period is forever. &mdash; warren buffett
 
 the savings we're talking about here is in investments. investments allow us to _over time_ beat inflation. observant readers and blind folks whose text to speech engine told them will note that i italicized "over time". this might be the most important point i make here. as anyone knows, the stock market is like a roller coaster from hell. bring up a graph of the last week in the stock market and imagine a roller coaster traversing the line. i don't even know what week you're reading this, but i can assure you that no one will ride that coaster and not have some kind of injury. now zoom out, 5 years, 10 years, 20 years, 50 years. suddenly that doom coaster isn't so bad. you might even notice that overall, minus a few notable crashes it's a pretty smooth ride, and that ride is always up. i don't look at my investments on a daily basis. once in a blue moon because the news is freaking out i look only out of a sense of amusement. gaining and losing a years salary in one week is not uncommon when the market is exceptionally volatile. it's just noise, ignore it. what we care is that general upward trend on the very long timelines.
 
